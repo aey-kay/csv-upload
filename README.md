@@ -1,6 +1,10 @@
 # csv-upload
 # Introduction
 This is csv reader web app you use it to read csv file only, 
+
+### Deployed at:
+ https://csv-uploader-by-amit.herokuapp.com/read.html
+ 
 # setup instructions:
 
 1. First download file on editor.
